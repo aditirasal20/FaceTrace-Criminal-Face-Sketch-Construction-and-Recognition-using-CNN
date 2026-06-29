@@ -1,0 +1,127 @@
+
+ ANSYS Mechanical Enterprise                       
+
+
+ *------------------------------------------------------------------*
+ |                                                                  |
+ |   W E L C O M E   T O   T H E   A N S Y S (R)  P R O G R A M     |
+ |                                                                  |
+ *------------------------------------------------------------------*
+
+
+
+
+ ***************************************************************
+ *            ANSYS 2019 R3          LEGAL NOTICES             *
+ ***************************************************************
+ *                                                             *
+ * Copyright 1971-2019 ANSYS, Inc.  All rights reserved.       *
+ * Unauthorized use, distribution or duplication is            *
+ * prohibited.                                                 *
+ *                                                             *
+ * Ansys is a registered trademark of ANSYS, Inc. or its       *
+ * subsidiaries in the United States or other countries.       *
+ * See the ANSYS, Inc. online documentation or the ANSYS, Inc. *
+ * documentation CD or online help for the complete Legal      *
+ * Notice.                                                     *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * THIS ANSYS SOFTWARE PRODUCT AND PROGRAM DOCUMENTATION       *
+ * INCLUDE TRADE SECRETS AND CONFIDENTIAL AND PROPRIETARY      *
+ * PRODUCTS OF ANSYS, INC., ITS SUBSIDIARIES, OR LICENSORS.    *
+ * The software products and documentation are furnished by    *
+ * ANSYS, Inc. or its subsidiaries under a software license    *
+ * agreement that contains provisions concerning               *
+ * non-disclosure, copying, length and nature of use,          *
+ * compliance with exporting laws, warranties, disclaimers,    *
+ * limitations of liability, and remedies, and other           *
+ * provisions.  The software products and documentation may be *
+ * used, disclosed, transferred, or copied only in accordance  *
+ * with the terms and conditions of that software license      *
+ * agreement.                                                  *
+ *                                                             *
+ * ANSYS, Inc. is a UL registered                              *
+ * ISO 9001:2015 company.                                      *
+ *                                                             *
+ ***************************************************************
+ *                                                             *
+ * This product is subject to U.S. laws governing export and   *
+ * re-export.                                                  *
+ *                                                             *
+ * For U.S. Government users, except as specifically granted   *
+ * by the ANSYS, Inc. software license agreement, the use,     *
+ * duplication, or disclosure by the United States Government  *
+ * is subject to restrictions stated in the ANSYS, Inc.        *
+ * software license agreement and FAR 12.212 (for non-DOD      *
+ * licenses).                                                  *
+ *                                                             *
+ ***************************************************************
+
+ 2019 R3 
+     
+ Point Releases and Patches installed:   
+     
+ ANSYS, Inc. Products 2019 R3
+ SpaceClaim 2019 R3  
+ AIM 2019 R3 
+ Live (includes SpaceClaim) 2019 R3  
+ Autodyn 2019 R3 
+ LS-DYNA 2019 R3 
+ CFX (includes CFD-Post) 2019 R3 
+ Chemkin 2019 R3 
+ EnSight 2019 R3 
+ FENSAP-ICE 2019 R3  
+ Fluent (includes CFD-Post) 2019 R3  
+ Forte 2019 R3   
+ Polyflow (includes CFD-Post) 2019 R3
+ TurboGrid 2019 R3   
+ ICEM CFD 2019 R3
+ Aqwa 2019 R3
+ Mechanical Products 2019 R3 
+ Additive 2019 R3
+ Icepak (includes CFD-Post) 2019 R3  
+ ACIS Geometry Interface 2019 R3 
+ AutoCAD Geometry Interface 2019 R3  
+ Catia, Version 4 Geometry Interface 2019 R3 
+ Catia, Version 5 Geometry Interface 2019 R3 
+ Catia, Version 6 Geometry Interface 2019 R3 
+ Creo Elements/Direct Modeling Geometry Interface 2019 R3
+ Creo Parametric Geometry Interface 2019 R3  
+ Inventor Geometry Interface 2019 R3 
+ JTOpen Geometry Interface 2019 R3   
+ NX Geometry Interface 2019 R3   
+ Parasolid Geometry Interface  2019 R3   
+ Solid Edge Geometry Interface 2019 R3   
+ SOLIDWORKS Geometry Interface 2019 R3   
+ ANSYS, Inc. License Manager 2019 R3 
+
+
+          *****  ANSYS COMMAND LINE ARGUMENTS  *****
+  INITIAL JOBNAME              = users                                                                                                                                                                                                                                                   
+  DISTRIBUTED MEMORY PARALLEL REQUESTED
+       2 PARALLEL PROCESSES REQUESTED WITH SINGLE THREAD PER PROCESS
+    TOTAL OF     2 CORES REQUESTED
+  MPI OPTION                   = INTELMPI
+  START-UP FILE MODE           = READ  
+  STOP FILE MODE               = READ  
+  MODEL FILE NAME              = C:\Users\Shreeyash\Face-Sketch-Construction-and-Recognition-for-Forensic\users.db                                                                                                                                                                                   
+  GRAPHICS DEVICE REQUESTED    = win32   
+  GRAPHICAL ENTRY              = YES   
+  LANGUAGE                     = en-us               
+  INITIAL DIRECTORY = C:\Users\Shreeyash\Face-Sketch-Construction-and-Recognition-for-Forensic
+
+ RELEASE= 2019 R3              BUILD= 19.5      UP20190805   VERSION=WINDOWS x64 
+ CURRENT JOBNAME=users1  00:11:25  FEB 20, 2026 CP=      0.109
+
+
+ RESUME ANSYS DATA FROM FILE NAME=C:\Users\Shreeyash\Face-Sketch-Construction-and-Recognition-for-Forensic\users.db                                                                                                                                                                                   
+
+ *** ERROR ***                           CP =       1.188   TIME= 00:11:27
+ Data file C:\Users\Shreeyash\Face-Sketch-Construction-and-Recognition-fo
+ r-Forensic\users.db has incorrect format, is missing READ/WRITE         
+ permission, or is empty for RESUME.                                     
+
+
+ NUMBER OF WARNING MESSAGES ENCOUNTERED=          0
+ NUMBER OF ERROR   MESSAGES ENCOUNTERED=          1

@@ -1,0 +1,10 @@
+/COM,ANSYS RELEASE 2019 R3           BUILD 19.5      UP20190805       00:11:12
+
+ *** ERROR ***                           CP =       0.125   TIME= 00:11:27
+ Data file C:\Users\Shreeyash\Face-Sketch-Construction-and-Recognition-fo
+ r-Forensic\users.db has incorrect format, is missing READ/WRITE         
+ permission, or is empty for RESUME.                                     
+
+ *** WARNING ***                         CP =       0.125   TIME= 00:11:27
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
