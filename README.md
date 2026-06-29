@@ -27,7 +27,7 @@ This project is a **Forensic Face Sketch Construction and Recognition** system d
 ### Steps
 1. **Clone the repository**
    ```sh
-   https://github.com/AnkithaC46/Face-Sketch-Construction-and-Recognition-for-Forensic.git
+   https://github.com/Face-Sketch-Construction-and-Recognition-for-Forensic.git
    cd Face-Sketch-Construction-and-Recognition-for-Forensic
    ```
 2. **Set up a virtual environment **
